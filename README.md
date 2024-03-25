@@ -1,4 +1,4 @@
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><b>📊 My Stats 📊</b></h2>
 <br>
 <p align=center>
   <div align=center>
