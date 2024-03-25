@@ -1,11 +1,4 @@
-<h1 align="center"><b> - Vynn's - </b></h1>
-<br>
-<br>
-
-
-
-
-
+<h1 align="center" id="color-kontol"><b> - Vynn's - </b></h1>
 <h2 align="center"><b>📊 My Stats 📊</b></h2>
 <br>
 <p align=center>
