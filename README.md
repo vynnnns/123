@@ -27,3 +27,8 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+</p>
