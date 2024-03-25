@@ -31,9 +31,3 @@
 </p>
 
 <hr>
-
-<!-- This Is For Styling Nigga !-->
-<style>
-  #color-kontol{
-       animation:
-</style>
