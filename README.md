@@ -1,6 +1,6 @@
-<link rel = "stylesheet" href="style.css">
-<script src = "script.js"></script>
-
+<head>
+  <link rel = "stylesheet" href = "style.css">
+</head>
 
 <h1 align="center" id="color-kontol"><b> - Vynn's - </b></h1>
 
