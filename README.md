@@ -1,5 +1,5 @@
 <link rel = "stylesheet" href="style.css">
-<script src="script.js">
+<script src="script.js"/>
 
 
 <h1 align="center" id="color-kontol"><b> - Vynn's - </b></h1>
